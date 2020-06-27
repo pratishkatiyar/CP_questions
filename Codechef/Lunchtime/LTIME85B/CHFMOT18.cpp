@@ -12,22 +12,28 @@ using namespace std;
 #define bs binary_search
 #define MOD 1000000007
 
+
 int main()
 {
-	int test;
-	cin>>test;
-	while(test--) {
-		int s,n;
-		cin>>s>>n;
-		int coins = 0;
-		while(s!=1 && s!=0){
-			coins += int(s/n);
-			s = s%n;
-			n = s>=(n-2)?(n-2):(s-s%2);
-		}
-		if(s==1)
-		coins = coins + 1;
-		cout<<coins<<"\n";
-	}
-	return 0;
+    vfast
+    ll t;
+    cin>>t;
+    while(t--){
+    	ll n,s;
+    	cin>>s>>n;
+    	ll x;
+    	x=s/n;
+    	if((s%n)%2==0 and (s%n)>=2){
+    		x+=1;
+    	}
+    	else	if((s%n)%2!=0){
+    		if((s%n)==1)	x+=1;
+    		else	x+=2;
+    	}
+
+        debug(x)
+    }
+    
+    return 0;
 }
+
