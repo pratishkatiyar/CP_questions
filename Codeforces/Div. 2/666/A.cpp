@@ -1,4 +1,3 @@
-#pragma GCC optimize ("-O3")
 #include <bits/stdc++.h>
 using ll = long long int;
 using namespace std;
