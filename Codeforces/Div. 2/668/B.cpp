@@ -28,7 +28,7 @@ int32_t main()
     	f(i,0,n){
     		cin>>a[i];
     	}
-
+        
     	f(i,0,n){
     		if(a[i]>0){t2+=a[i];}
     		else	if(a[i]<0){
@@ -36,13 +36,12 @@ int32_t main()
     			t2-=min(abs(a[i]),t2);
     		}
     	}
+        
     	f(i,0,n){
     		t1+=abs(a[i]);
     	}
-
-    	debug((t1-(2*t3))/2)
-
-    	
+        
+    	debug((t1-(2*t3))/2) 	
     	   
         
     }
