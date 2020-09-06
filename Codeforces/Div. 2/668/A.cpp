@@ -23,7 +23,7 @@ int32_t main()
     	ll a[n];
     	f(i,0,n)	cin>>a[i];
     	reverse(a,a+n);
-    	f(i,0,n){   cout<<a[i]<<" ";}
+    	f(i,0,n){  cout<<a[i]<<" ";}
     	cout<<"\n";
         
     }
