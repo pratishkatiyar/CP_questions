@@ -21,7 +21,6 @@ int32_t main()
     cin>>t;
     while(t--)
     {
-
     	t1=0,t2=0,t3=0,ans=0,var=0;
     	ll n;
     	cin>>n;
