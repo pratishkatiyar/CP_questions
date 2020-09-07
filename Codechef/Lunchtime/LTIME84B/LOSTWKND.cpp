@@ -22,7 +22,6 @@ int main() {
     while (t--) {
         f(i, 0, 5) cin >> a[i];
         cin>>p;
-
         ll v = 0;
 
         f(i, 0, 5) {
