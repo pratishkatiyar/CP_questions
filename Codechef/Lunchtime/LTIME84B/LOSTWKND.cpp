@@ -26,7 +26,6 @@ int main() {
         f(i, 0, 5) {
             v += (p * a[i]);
         }
-
         if (v <= 120) debug(h)
         else debug(g)
         }
