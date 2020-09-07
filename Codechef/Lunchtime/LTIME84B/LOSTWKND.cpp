@@ -29,7 +29,6 @@ int main() {
         if (v <= 120) debug(h)
         else debug(g)
         }
-
     return 0;
 }
 
