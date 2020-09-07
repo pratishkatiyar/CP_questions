@@ -17,7 +17,7 @@ ll a[100007];
 ll b[100007];
 int main() 
 {
-    vfast
+    vfast;
     ll t,n,x,y,v;
     cin>>t;
     while (t--) {
