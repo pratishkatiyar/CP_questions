@@ -15,7 +15,8 @@ string h = "No";
 string g = "Yes";
 ll a[100007];
 ll b[100007];
-int main() {
+int main() 
+{
     vfast
     ll t,n,x,y,v;
     cin>>t;
