@@ -31,8 +31,7 @@ int main() {
             x+=a[i];
             y+=b[i];            
         }
-        debug(v)
-        
+        debug(v)        
         }
 
     return 0;
