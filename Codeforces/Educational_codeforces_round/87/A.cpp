@@ -28,8 +28,7 @@ int main()
             temp = a/(c-d)+(a%(c-d) > 0);
             var=var+(temp*c);
             debug(var)
-        }
-        
+        }        
     }
     
     return 0;
