@@ -6,8 +6,7 @@ try:
         n,q=map( int,input().split() )
         s=input()
         for i in range(n):
-            seq[ord(s[i])-97]+=1
-        #print(seq)    
+            seq[ord(s[i])-97]+=1   
         for yu in range(q):
             var=0
             z=int(input())
