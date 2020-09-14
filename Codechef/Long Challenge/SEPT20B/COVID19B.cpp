@@ -69,10 +69,7 @@ int32_t main()
     				if(mis[j]==0 or mis[j]>intersection.first)		mis[j]=intersection.first;}
     			}
     		}
-    	}
-
-    	//for(auto i:mp){pi=i.first;cout<<pi.first<<" "<<pi.second<<" "<<i.second<<"\n";}
-    	
+    	}    	
 
     	f(i,1,n+1){
     		if(mi[i]!=1){
