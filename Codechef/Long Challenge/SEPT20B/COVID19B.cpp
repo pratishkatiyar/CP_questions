@@ -84,7 +84,6 @@ int32_t main()
     					if(pi.first!=i)	s1.insert(pi.first);if(pi.second!=i)	s1.insert(pi.second);
     				}
     			}
-    			//if(i==2)	cout<<"size--"<<s1.size()<<endl;
 
     			for(auto i1:s1){
     				if(i1>i)	pi={i,i1};
