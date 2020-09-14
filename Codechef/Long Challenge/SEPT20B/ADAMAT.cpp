@@ -40,6 +40,7 @@ int32_t main()
 {
     vfast
     cin>>t;
+	
     f(ip,0,t)
     {
     	t1=0;
