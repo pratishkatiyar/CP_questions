@@ -90,7 +90,6 @@ int32_t main()
     				else	if(i1<i)pi={i1,i};
     				d2=mp[pi];
     				if(i1!=i and d2>=d1){
-    				//if(i==2)cout<<pi.first<<" "<<pi.second<<"--"<<d2<<"--\n";
     				for(auto i2:mp){
     					pi=i2.first;
     					if((pi.first==i1 or pi.second==i1) and d2<=i2.second){
