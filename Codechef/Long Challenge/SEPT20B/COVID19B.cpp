@@ -98,7 +98,6 @@ int32_t main()
     				}
     			}}
 
-
     			s1.insert(i);
     			t2=s1.size();
 
