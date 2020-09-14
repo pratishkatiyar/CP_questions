@@ -104,7 +104,6 @@ int32_t main()
     			s1.insert(i);
     			t2=s1.size();
 
-    			//if(t2==4){cout<<i<<"---";for(auto i1:s1)	cout<<i1<<" ";cout<<endl;}
 
     			big=max(big,t2);
     			small=min(small,t2);
