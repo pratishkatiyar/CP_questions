@@ -29,7 +29,6 @@ int32_t main()
     		cout<<x-2;
     	}
     	cout<<"\n";
-
     }
     
     return 0;
