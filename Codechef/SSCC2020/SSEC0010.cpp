@@ -27,7 +27,6 @@ int32_t main()
     	else	if(x==2 or x==6)	debug("83 83")
     	else	if(x==3 or x==5)	debug("83 83 69")
     	else	if(x==4)	debug("83 83 69 67")
-    }
-    
+    }    
     return 0;
 }
