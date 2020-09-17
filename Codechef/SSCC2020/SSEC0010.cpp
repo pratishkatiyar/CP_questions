@@ -23,7 +23,6 @@ int32_t main()
     	ll n;
     	cin>>n;
     	ll x=n%7;
-
     	if(x==0 or x==1)	debug("83")
     	else	if(x==2 or x==6)	debug("83 83")
     	else	if(x==3 or x==5)	debug("83 83 69")
