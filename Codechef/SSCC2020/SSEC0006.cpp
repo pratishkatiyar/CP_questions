@@ -52,7 +52,6 @@ int32_t main()
     for(auto i:v){
     	cout<<i.first<<","<<i.second<<"\n";
     }
-
     
     return 0;
 }
