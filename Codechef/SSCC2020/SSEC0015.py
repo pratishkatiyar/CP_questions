@@ -1,8 +1,7 @@
 # cook your dish here
 import sys
 
-try:
-    
+try:    
     def readstring():
         return sys.stdin.readline().lstrip().rstrip()
         
