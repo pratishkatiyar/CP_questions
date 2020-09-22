@@ -6,6 +6,7 @@ using namespace std;
 #define vfast ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 #define f(i,x,n) for(ll i=x;i<n;i++)
 #define debug(x,y) cout<<x<<" "<<y<<"\n";
+
 pdd lineLineIntersection(pdd A, pdd B, pdd C, pdd D) 
 { 
     double a1 = B.second - A.second; 
