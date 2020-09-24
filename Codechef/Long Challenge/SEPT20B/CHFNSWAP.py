@@ -13,10 +13,12 @@ try:
 
     tc=readint()
     for _ in range(tc):
+        
     	count1=0
     	x=y=x1=y1=i=j=r=0
     	n=readint()
     	count1=((n*(n+1))//2)
+        
     	if count1%2!=0:
     		sys.stdout.write("0\n")
     	elif count1%2==0:
