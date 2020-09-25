@@ -5,7 +5,6 @@ try:
         return map(int,sys.stdin.readline().lstrip().rstrip().split())    
     def readint():
         return int(sys.stdin.readline().lstrip().rstrip())
-
     def readlist():
         return list(map(int,sys.stdin.readline().lstrip().rstrip().split())) 
     tc=readint()
