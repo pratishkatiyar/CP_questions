@@ -15,7 +15,7 @@ try:
     for _ in range(tc):        
     	count1=0
     	x=y=0
-        x1=y1=i=j=r=0
+        x1=y1=0i=j=r=0
     	n=readint()
     	count1=((n*(n+1))//2)        
     	if count1%2!=0:
