@@ -1,6 +1,5 @@
 import sys
 import math
-
 try:
     def readsplit():
         return map(int,sys.stdin.readline().lstrip().rstrip().split())    
