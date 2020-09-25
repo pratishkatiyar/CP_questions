@@ -36,6 +36,7 @@ void sol1()
 	debug(a1)
 
 }
+
 int32_t main()
 {
     vfast
