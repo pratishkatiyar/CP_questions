@@ -3,8 +3,7 @@ import math
 
 try:
     def readsplit():
-        return map(int,sys.stdin.readline().lstrip().rstrip().split())
-    
+        return map(int,sys.stdin.readline().lstrip().rstrip().split())    
     def readint():
         return int(sys.stdin.readline().lstrip().rstrip())
 
