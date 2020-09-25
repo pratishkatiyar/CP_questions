@@ -12,8 +12,7 @@ try:
         return list(map(int,sys.stdin.readline().lstrip().rstrip().split())) 
 
     tc=readint()
-    for _ in range(tc):
-        
+    for _ in range(tc):        
     	count1=0
     	x=y=x1=y1=i=j=r=0
     	n=readint()
