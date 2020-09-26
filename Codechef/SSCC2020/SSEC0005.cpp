@@ -9,7 +9,6 @@ using namespace std;
 #define debug(x) cout<<x<<"\n";
 #define lb lower_bound
 #define ub upper_bound
-#define bs binary_search
 int32_t main()
 {
     vfast
