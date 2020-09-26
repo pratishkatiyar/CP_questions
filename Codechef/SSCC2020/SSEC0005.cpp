@@ -8,7 +8,6 @@ using namespace std;
 #define mp make_pair
 #define debug(x) cout<<x<<"\n";
 #define lb lower_bound
-#define ub upper_bound
 int32_t main()
 {
     vfast
