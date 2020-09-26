@@ -11,7 +11,6 @@ using namespace std;
 #define ub upper_bound
 #define bs binary_search
 #define MOD 1000000007
-
 int32_t main()
 {
     vfast
