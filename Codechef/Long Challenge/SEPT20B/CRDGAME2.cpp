@@ -9,7 +9,6 @@ using namespace std;
 #define debug(x) cout<<x<<"\n";
 #define lb lower_bound
 #define ub upper_bound
-#define bs binary_search
 #define infi 1000000007
 ll var1,t1,t2,t3,t4,ans;
 ll arr[100001];
