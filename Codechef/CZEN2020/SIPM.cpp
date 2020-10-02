@@ -12,7 +12,6 @@ using namespace std;
 #define bs binary_search
 #define MOD 1000000007
 
-
 int32_t main()
 {
     vfast
