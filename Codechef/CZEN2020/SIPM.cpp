@@ -31,6 +31,5 @@ int32_t main()
     	for(auto i:a2)	b+=i;
     	cout<<b<<" "<<a<<"\n";   
     }
-    
     return 0;
 }
