@@ -29,8 +29,7 @@ int32_t main()
     	}
     	for(auto i:a1)	a+=i;
     	for(auto i:a2)	b+=i;
-    	cout<<b<<" "<<a<<"\n";        
-           
+    	cout<<b<<" "<<a<<"\n";    
         
 
     }
