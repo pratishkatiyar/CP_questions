@@ -4,7 +4,6 @@ using ll = long long int;
 using namespace std;
 #define vfast ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 #define f(i,x,n) for(ll i=x;i<n;i++)
-#define pb push_back
 #define debug(x) cout<<x<<"\n";
 int32_t main()
 {
