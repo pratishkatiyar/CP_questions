@@ -10,7 +10,6 @@ using namespace std;
 #define lb lower_bound
 #define ub upper_bound
 #define bs binary_search
-#define MOD 1000000007
 ll a=0,n,t;
 int32_t main()
 {
