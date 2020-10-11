@@ -30,8 +30,7 @@ int32_t main()
         else    if(n==13)   debug("2 0 1")
         else    if(n%3==1 and n>10){ a=(n-7)/3;cout<<a<<" "<<0<<" 1"<<"\n";}
         else   if(n%3==2 and n>=8){a=(n-5)/3;cout<<a<<" 1 0"<<"\n";}  
-        else    debug(-1)         
-        
+        else    debug(-1)                 
     }
     
     return 0;
