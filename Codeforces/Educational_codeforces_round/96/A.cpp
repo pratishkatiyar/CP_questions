@@ -8,7 +8,6 @@ using namespace std;
 #define mp make_pair
 #define debug(x) cout<<x<<"\n";
 #define lb lower_bound
-#define ub upper_bound
 ll a=0,n,t;
 int32_t main()
 {
