@@ -9,7 +9,6 @@ using namespace std;
 #define debug(x) cout<<x<<"\n";
 #define lb lower_bound
 #define ub upper_bound
-#define bs binary_search
 #define MOD 1000000007
 
 ll t1=0,t2=0,t3=0,ans=0,var=0;
