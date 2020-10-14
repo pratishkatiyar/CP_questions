@@ -8,7 +8,6 @@ using namespace std;
 #define mp make_pair
 #define debug(x) cout<<x<<"\n";
 #define lb lower_bound
-#define MOD 1000000007
 
 ll t1=0,t2=0,t3=0,ans=0,var=0;
 
