@@ -41,8 +41,7 @@ int32_t main()
     		t1+=abs(a[i]);
     	}
         
-    	debug((t1-(2*t3))/2) 	
-    	   
+    	debug((t1-(2*t3))/2) 	    	   
         
     }
     
