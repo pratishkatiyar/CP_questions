@@ -28,8 +28,7 @@ int32_t main()
     			t3+=min(abs(a[i]),t2);
     			t2-=min(abs(a[i]),t2);
     		}
-    	}
-        
+    	}        
     	f(i,0,n){
     		t1+=abs(a[i]);
     	}
