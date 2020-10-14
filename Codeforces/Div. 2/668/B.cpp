@@ -18,11 +18,10 @@ int32_t main()
     	t1=0,t2=0,t3=0,ans=0,var=0;
     	ll n;
     	cin>>n;
-    	ll a[n];
+    	ll a[n];        
     	f(i,0,n){
     		cin>>a[i];
-    	}
-        
+    	}        
     	f(i,0,n){
     		if(a[i]>0){t2+=a[i];}
     		else	if(a[i]<0){
