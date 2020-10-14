@@ -7,7 +7,6 @@ using namespace std;
 #define pb push_back
 #define mp make_pair
 #define debug(x) cout<<x<<"\n";
-#define lb lower_bound
 
 ll t1=0,t2=0,t3=0,ans=0,var=0;
 
