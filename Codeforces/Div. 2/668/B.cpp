@@ -34,6 +34,5 @@ int32_t main()
     	}        
     	debug((t1-(2*t3))/2) 	
     }
-    
     return 0;
 }
