@@ -31,8 +31,7 @@ int32_t main()
     	}        
     	f(i,0,n){
     		t1+=abs(a[i]);
-    	}
-        
+    	}        
     	debug((t1-(2*t3))/2) 	    	   
         
     }
