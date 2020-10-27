@@ -36,7 +36,7 @@ int main()
             }
             i--;
         }
-        cout << max(count_one, count_zero) << "\n";
+        cout<< max(count_one, count_zero) << "\n";
     }
     return 0;
 }
