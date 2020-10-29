@@ -5,14 +5,14 @@ using namespace std;
 #define pure cout << fixed << setprecision(18)
 #define ll long long int
 #define newline cout << "\n"
-#define speed ios_base::sync_with_stdio(0); cin.tie(0)
+#define vfast ios_base::sync_with_stdio(0); cin.tie(0)
 const int N = 2e5 + 2;
 int t;
 int n;
 int data[N];
  
 int main() {
-    speed;
+    vfast;
     cin >> t;
     while (t--) {
         cin >> n;
