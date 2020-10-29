@@ -3,7 +3,6 @@ using namespace std;
 
 #define chota(a) transform(a.begin(), a.end(), a.begin(), ::tolower)
 #define pure cout << fixed << setprecision(18)
-#define kitnabit(x) __builtin_popcount(x)
 #define ll long long
 #define newline cout << "\n"
 #define speed ios_base::sync_with_stdio(0); cin.tie(0)
