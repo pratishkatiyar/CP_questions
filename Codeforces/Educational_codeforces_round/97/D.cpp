@@ -3,7 +3,7 @@ using namespace std;
 
 #define chota(a) transform(a.begin(), a.end(), a.begin(), ::tolower)
 #define pure cout << fixed << setprecision(18)
-#define ll long long
+#define ll long long int
 #define newline cout << "\n"
 #define speed ios_base::sync_with_stdio(0); cin.tie(0)
 const int N = 2e5 + 2;
