@@ -1,6 +1,5 @@
 #include "bits/stdc++.h"
 using namespace std;
-
 #define chota(a) transform(a.begin(), a.end(), a.begin(), ::tolower)
 #define pure cout << fixed << setprecision(18)
 #define ll long long int
