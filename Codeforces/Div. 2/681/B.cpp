@@ -1,12 +1,6 @@
 
 
-#include <iostream>
-#include <vector>
-#include <math.h>
-#include <algorithm>
-#include <set>
-#include <map>
-#include <array>
+#include <bits/stdc++.h>
 
 using namespace std;
 typedef long long int64;
