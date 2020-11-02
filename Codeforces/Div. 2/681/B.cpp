@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int64;
-
 int main()
 {
   ios::sync_with_stdio(false);
